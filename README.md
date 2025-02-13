@@ -11,7 +11,7 @@ This chatbot can respond to user queries related to general health concerns, sym
 - **Symptom Monitoring**: The chatbot can analyze symptoms and provide basic guidance on possible causes and care.
 - **User-Friendly Interface**: The chatbot is built using **Streamlit**, making it easy to use and interactive.
 - **AI-Based Responses**: It leverages **Microsoft DialoGPT** to generate personalized and relevant answers.
-- **Lightweight and Accessible**: The application runs smoothly on a local machine and can be accessed via a web browser.
+- **Accessiblilty**: The application runs smoothly on a local machine and can be accessed via a web browser.
 
 ## Technologies Used
 - **Python** (Core programming language)
